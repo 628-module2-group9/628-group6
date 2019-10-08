@@ -16,7 +16,7 @@ There are 4 R code files:
 This folder contains mainly the figures/images/tables produced in our analysis.
 
 ## data
-**BodyFat.csv is the original 252 records of clinical measurements including age, weight, height, bmi, and various body circumference measurements etc: **
+- **BodyFat.csv is the original 252 records of clinical measurements including age, weight, height, bmi, and various body circumference measurements etc:**
 
 Percent body fat from Siri's (1956) equation
 
@@ -50,4 +50,4 @@ Forearm circumference (cm)
 
 Wrist circumference (cm)
 
-**Bodyfat_used.Rdata is the Rdata after removing all outliers from the original dataset.**
+- **Bodyfat_used.Rdata is the Rdata after removing all outliers from the original dataset.**
