@@ -54,5 +54,5 @@ Wrist circumference (cm)
 
 ## Shiny app
 
-**In the shiny app, we have finished a web-based application to help male users calculate their bodyfat and then give them some instruction good for their health.
+**In the shiny app, we have finished a web-based application to help male users calculate their bodyfat and then give them some instruction good for their health.**
 
