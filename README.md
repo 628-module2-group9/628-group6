@@ -7,10 +7,10 @@ This is a course project aiming at coming up with a simple, precise, and accurat
 ## code
 There are 4 R code files: 
 
--data.R visualized the data, removes outliers and divides the data into a train set and validation set.
--mlr.R constructs multiple linear models to predict BodyFat%.
--lasso.R uses Lasso method to do variable selection and constructs linear models to predict BodyFat%.
--multiplot.R works as a hearder file, which contains a plotting function helping us to make better graghs.
+- data.R visualized the data, removes outliers and divides the data into a train set and validation set.
+
+- mlr.R constructs multiple linear models to predict BodyFat%.
+
 
 ## image
 This folder contains mainly the figures/images/tables produced in our analysis.
