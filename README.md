@@ -48,6 +48,10 @@ Biceps (extended) circumference (cm)
 
 Forearm circumference (cm)
 
+## Shiny app
+
+**In the shiny app, we have finished a web-based application to help male users calculate their bodyfat and then give them some instruction good for their health.
+
 Wrist circumference (cm)
 
 - **Bodyfat_used.Rdata is the Rdata after removing all outliers from the original dataset.**
