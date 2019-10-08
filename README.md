@@ -15,7 +15,7 @@ There are 4 R code files:
 ## image
 This folder contains mainly the figures/images/tables produced in our analysis.
 
-# data
+## data
 BodyFat.csv is the original 252 records of clinical measurements include age, weight, height, bmi, and various body circumference measurements etc. In particular, the variables listed below (from left to right in the data set) are:
 
 Percent body fat from Siri's (1956) equation
