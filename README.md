@@ -1,4 +1,4 @@
-# BodyFat Calculation Porject
+# BodyFat Calculation Project
 
 ## Yun Mo, Fangyang Chen, Anne Huen Wai Wong, Richard Yang
 
