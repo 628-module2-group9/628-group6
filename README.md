@@ -23,8 +23,8 @@ This folder contains mainly the figures/images/tables produced in our analysis.
 
 - **BodyFat.csv**: is the original 252 records of clinical measurements including age, weight, height, bmi, and various body circumference measurements etc:
 
-\ Percent body fat from Siri's (1956) equation  
-\_Density determined from underwater weighing  
+  Percent body fat from Siri's (1956) equation  
+  Density determined from underwater weighing  
 Age (years)  
 Weight (lbs)  
 Height (inches)  
