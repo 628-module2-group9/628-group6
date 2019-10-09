@@ -2,7 +2,7 @@
 
 ## Yun Mo, Fangyang Chen, Anne Huen Wai Wong, Richard Yang
 
-This is a course project aiming at coming up with a simple, precise, and accurate way of determining body fat percentage of males based on available and convenient measurements. BodyFat Summary.ipynb is an executive summary of the data analysis process and findings in Jupyter Notebook pattern. After using several variables selection methods, we found it's highly correlated with
+This is a course project aiming at coming up with a simple, precise, and accurate way of determining body fat percentage of males based on available and convenient measurements. BodyFat Summary.ipynb is an executive summary of the data analysis process and findings in Jupyter Notebook pattern. After using several variables selection methods, we found it's highly correlated with Abdomen, Weight and Wrist
 
 ## code
 There are 4 R code files: 
