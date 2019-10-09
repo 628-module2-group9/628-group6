@@ -52,7 +52,7 @@ Forearm circumference (cm)
 
 Wrist circumference (cm)
 
-- **Bodyfat_used.Rdata is the Rdata after removing all outliers from the original dataset.**
+- **Bodyfat_used.csv is the Rdata after removing all outliers from the original dataset.**
 
 ## Shiny app
 
