@@ -10,9 +10,9 @@ Link to our Shiny app: https://team9bodyfat.shinyapps.io/628BodyFat/
 
 ## code
  
-- Overall Code.ipynb: is an overall version of our analysis, including visualizes the data, removes outliers and constructs Multiple Linear Regression models to predict BodyFat%.
+- **Overall Code.ipynb**: is an overall version of our analysis, including visualizes the data, removes outliers and constructs Multiple Linear Regression models to predict BodyFat%.
 
-- code.R: is the overall code of our whole study, including visualizes the data, removes outliers and constructs Multiple Linear Regression models to predict BodyFat%, it also generates the dataset that we used and plots that we want to show. 
+- **code.R**: is the overall code of our whole study, including visualizes the data, removes outliers and constructs Multiple Linear Regression models to predict BodyFat%, it also generates the dataset that we used and plots that we want to show. 
 
 
 ## image
@@ -21,10 +21,10 @@ This folder contains mainly the figures/images/tables produced in our analysis.
 
 ## data
 
-* **BodyFat.csv is the original 252 records of clinical measurements including age, weight, height, bmi, and various body circumference measurements etc:**
+- **BodyFat.csv**: is the original 252 records of clinical measurements including age, weight, height, bmi, and various body circumference measurements etc:
 
-Percent body fat from Siri's (1956) equation  
-Density determined from underwater weighing  
+\ Percent body fat from Siri's (1956) equation  
+\_Density determined from underwater weighing  
 Age (years)  
 Weight (lbs)  
 Height (inches)  
@@ -40,7 +40,7 @@ Biceps (extended) circumference (cm)
 Forearm circumference (cm)  
 Wrist circumference (cm)  
 
-- **bodyfat_used.csv is the dataset we used to fit the model after removing outliers.**
+- **bodyfat_used.csv**: is the dataset we used to fit the model after removing outliers.
 
 ## Shiny app
 
