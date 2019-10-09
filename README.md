@@ -2,14 +2,16 @@
 
 ## Yun Mo, Fangyang Chen, Anne Huen Wai Wong, Richard Yang
 
-This is a course project aiming at coming up with a simple, precise, and accurate way of determining body fat percentage of males based on available and convenient measurements. BodyFat Summary.ipynb is an executive summary of the data analysis process and findings in Jupyter Notebook pattern. After using several variables selection methods, we found it's highly correlated with Abdomen, Weight and Wrist
+This is a course project aiming at coming up with a simple, precise, and accurate way of determining body fat percentage of males based on available and convenient measurements. BodyFat Summary.ipynb is an summary of the data analysis process and findings in Jupyter Notebook pattern. After using several variables selection methods, we find it's highly correlated with Abdomen, Weight and Wrist. We build a linear regression model using above three variables for prediction.
+
+The shiny app for our bodyfat calculator: https://team9bodyfat.shinyapps.io/628BodyFat/.
 
 ## code
-There are 4 R code files: 
+There are 2 files: 
 
 - code.R. Contain all codes we used.
 
-- 
+- Overall Code.ipynb. Contain all codes and pictures, with some explanation words.
 
 
 ## image
