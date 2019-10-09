@@ -23,34 +23,22 @@ This folder contains mainly the figures/images/tables produced in our analysis.
 
 - **BodyFat.csv is the original 252 records of clinical measurements including age, weight, height, bmi, and various body circumference measurements etc:**
 
-Percent body fat from Siri's (1956) equation
-
-Density determined from underwater weighing
-
-Age (years)
-Weight (lbs)
-Height (inches)
-Adioposity (bmi)
-
-Neck circumference (cm)
-
-Chest circumference (cm)
-
-Abdomen 2 circumference (cm)
-
-Hip circumference (cm)
-
-Thigh circumference (cm)
-
-Knee circumference (cm)
-
-Ankle circumference (cm)
-
-Biceps (extended) circumference (cm)
-
-Forearm circumference (cm)
-
-Wrist circumference (cm)
+Percent body fat from Siri's (1956) equation  
+Density determined from underwater weighing  
+Age (years)  
+Weight (lbs)  
+Height (inches)  
+Adioposity (bmi)  
+Neck circumference (cm)  
+Chest circumference (cm)  
+Abdomen 2 circumference (cm)  
+Hip circumference (cm)  
+Thigh circumference (cm)  
+Knee circumference (cm)  
+Ankle circumference (cm)  
+Biceps (extended) circumference (cm)  
+Forearm circumference (cm)  
+Wrist circumference (cm)  
 
 - **bodyfat_used.csv is the dataset we used to fit the model after removing outliers.**
 
