@@ -1,6 +1,7 @@
-# BodyFat Calculation Project
+# BodyFat Calculator Project
 
-## Yun Mo, Fangyang Chen, Anne Huen Wai Wong, Richard Yang
+## Writer: Yun Mo, Fangyang Chen, Anne Huen Wai Wong, Richard Yang
+## Date: 10/09/2019
 
 This is a course project aiming at coming up with a simple, precise, and accurate way of determining body fat percentage of males based on available and convenient measurements. BodyFat Summary.ipynb is an executive summary of the data analysis process and findings in Jupyter Notebook pattern. After using several variables selection methods, we found it's highly correlated with the weight, circumference of abdomen and wrist.
 
