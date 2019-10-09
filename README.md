@@ -7,9 +7,9 @@ This is a course project aiming at coming up with a simple, precise, and accurat
 ## code
 There are 4 R code files: 
 
-- data.R visualized the data, removes outliers and divides the data into a train set and validation set.
+- code.R. Contain all codes we used.
 
-- mlr.R constructs multiple linear models to predict BodyFat%.
+- 
 
 
 ## image
