@@ -28,11 +28,8 @@ Percent body fat from Siri's (1956) equation
 Density determined from underwater weighing
 
 Age (years)
-
 Weight (lbs)
-
 Height (inches)
-
 Adioposity (bmi)
 
 Neck circumference (cm)
